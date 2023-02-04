@@ -73,4 +73,5 @@ end
 
 gem "devise", "~> 4.8"
 
+gem "redis-rails"
 gem "ruby-lsp", "~> 0.3.8", :group => :development
